@@ -82,7 +82,7 @@ The most influential features for placement prediction were:
 
 ### Feature Importance Visualization
 
-![Feature Importance](screenshots/feature importance.png)
+![Feature Importance](screenshots/feature%20importance.png)
 
 ---
 
@@ -102,7 +102,7 @@ The most influential features for placement prediction were:
 
 ### Input Form
 
-![Streamlit Form](screenshots/stream form.png)
+![Streamlit Form](screenshots/stream%20form.png)
 
 ### Prediction Result
 
