@@ -1,5 +1,8 @@
 # 🎓 Student Placement Predictor
 
+# LIVE DEMO 
+https://studentplacementpredictor-mj2ppwadbcqkdcdlpuyisg.streamlit.app/ s
+
 ## 📌 Overview
 
 The Student Placement Predictor is a Machine Learning project that predicts whether a student is likely to be placed based on academic performance, aptitude scores, internships, projects, certifications, soft skills, and other factors.
